@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting future energy consumption using time series forecasting techniques. Accurately forecasting energy demand is crucial for energy providers to balance supply and demand, optimize resource allocation, and plan for peak usage periods. The project is designed to showcase fundamental data science and time series forecasting skills, making it an ideal addition to a portfolio for data science internships.
+This project focuses on predicting future energy consumption using time series forecasting techniques. Accurately forecasting energy demand is crucial for energy providers to balance supply and demand, optimize resource allocation, and plan for peak usage periods. The project is designed to showcase fundamental data science and time series forecasting skills.
 
 ## Objectives
 
