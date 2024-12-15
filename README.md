@@ -8,7 +8,7 @@ This project focuses on predicting future energy consumption using time series f
 
 - To predict energy demand based on historical consumption data
 - To analyze seasonal patterns and trends in energy usage
-- To demonstrate the application of time series forecasting model ARIMA
+- To explore the application of time series forecasting model ARIMA
 
 ## Project Structure
 
