@@ -27,6 +27,7 @@ This project requires Python and the following main libraries:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+- `statsmodels`
 
   
 
